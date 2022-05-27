@@ -1,51 +1,26 @@
-.p1login {
-	color: blueviolet;
-}
-
-.p2password {
-	color: blueviolet;
-}
-
-.p3name {
-	color: blueviolet;
-}
-
-.p4familiya {
-	color: blueviolet;
-}
-
-.p5otcjestvo {
-	color: blueviolet;
-}
-
-.p6color {
-	color: blueviolet;
-}
-
-.p7photo {
-	color: blueviolet;
-}
-
-.p8osebe {
-	color: blueviolet;
-}
-
-.p9zhiv {
-	color: blueviolet;
-}
-
-.p10nravzhiv {
-	color: blueviolet;
-}
-
-.p11tel {
-	color: blueviolet;
-}
-
 .otpr {
+	font-size: 15px;
 	color: blueviolet;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-style: italic;
+	font-weight: 700;
+	text-decoration: underline;
 }
 
 .otpr2 {
+	font-size: 15px;
 	color: blueviolet;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-style: italic;
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+p {
+	font-size: 15px;
+	color: blueviolet;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-style: italic;
+	font-weight: 700;
+	text-decoration: underline;
 }
